@@ -11,7 +11,7 @@ const profile = () => {
         </Avatar>
       </Link>
       <h1 className="font-semibold mt-2 py-2.5 text-xl font-heading">
-        Jensen Low
+        hrdv10
       </h1>
       <p className="text-neutral-500">Generative AI Platform Engineer</p>
     </div>
