@@ -16,18 +16,18 @@ const Footer = () => {
       </div>
       <div>
         {`© 2024 - `}
-        <a href="https://github.com/wtlow003" className="text-blue-500">
-          wtlow003
+        <a href="https://github.com/hrdv10" className="text-blue-500">
+          hrdv10
         </a>
       </div>
       <div>
         {`Powered by `}
-        <a href="https://github.com/wtlow003" className="text-blue-500">
+        <a href="https://github.com/hrdv10" className="text-blue-500">
           nextjs
         </a>
         {`, theme by `}
-        <a href="https://github.com/wtlow003" className="text-blue-500">
-          wtlow003
+        <a href="https://github.com/hrdv10" className="text-blue-500">
+          hrdv10
         </a>
       </div>
     </div>
